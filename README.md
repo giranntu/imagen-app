@@ -20,7 +20,7 @@ This is an image generation application that allows users to generate unique ima
 
 1\. Clone the repository:
 
-   ```
+   ```sh
 
    git clone https://github.com/giranntu/image-generation-app.git
 
@@ -28,7 +28,7 @@ This is an image generation application that allows users to generate unique ima
 
 2\. Navigate to the frontend directory:
 
-   ```
+   ```sh
 
    cd image-generation-app/frontend
 
@@ -36,7 +36,7 @@ This is an image generation application that allows users to generate unique ima
 
 3\. Install the frontend dependencies:
 
-   ```
+   ```sh
 
    npm install
 
@@ -46,7 +46,7 @@ This is an image generation application that allows users to generate unique ima
 
 5\. Build the frontend:
 
-   ```
+   ```sh
 
    npm run build
 
@@ -54,61 +54,12 @@ This is an image generation application that allows users to generate unique ima
 
 6\. Serve the frontend:
 
-   ```
+   ```sh
 
    npm run serve
 
    ```
 
-## Backend Setup
-
-1\. Navigate to the backend directory:
-
-  ```sh
-
-   cd ../backend
-
-  ```
-
-
-2\. Create a virtual environment:
-
-   ```sh
-
-   python3 -m venv venv
-
-  ```
-  
-
-
-
-3\. Activate the virtual environment:
-
-  ```sh
-
-   source venv/bin/activate
-
-  ```
-
-
-4\. Install the backend dependencies:
-
-  ```sh
-
-   pip install -r requirements.txt
-
-   ```
-
-
-5\. Create a `.env` file in the `backend` directory and provide the necessary environment variables (e.g., MongoDB connection URL, Google Cloud Storage bucket name).
-
-6\. Run the backend server:
-
-  ```sh
-
-   uvicorn main:app --host 0.0.0.0 --port 8000
-
-```
 
 
 ## Production Deployment
