@@ -24,7 +24,7 @@ This is an image generation application that allows users to generate unique ima
 
    git clone https://github.com/giranntu/image-generation-app.git
 
-   ```
+  ```
 
 2\. Navigate to the frontend directory:
 
