@@ -77,7 +77,9 @@ This is an image generation application that allows users to generate unique ima
 
    python3 -m venv venv
 
-   ```
+  ```
+  
+
 
 
 3\. Activate the virtual environment:
@@ -86,7 +88,7 @@ This is an image generation application that allows users to generate unique ima
 
    source venv/bin/activate
 
-```
+  ```
 
 
 4\. Install the backend dependencies:
