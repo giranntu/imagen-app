@@ -65,33 +65,25 @@ This is an image generation application that allows users to generate unique ima
 1\. Navigate to the backend directory:
 
    ```
-
    cd ../backend
-
    ```
 
 2\. Create a virtual environment:
 
    ```
-
    python3 -m venv venv
-
    ```
 
 3\. Activate the virtual environment:
 
    ```
-
    source venv/bin/activate
-
    ```
 
 4\. Install the backend dependencies:
 
    ```
-
    pip install -r requirements.txt
-
    ```
 
 5\. Create a `.env` file in the `backend` directory and provide the necessary environment variables (e.g., MongoDB connection URL, Google Cloud Storage bucket name).
@@ -99,9 +91,7 @@ This is an image generation application that allows users to generate unique ima
 6\. Run the backend server:
 
    ```
-
    uvicorn main:app --host 0.0.0.0 --port 8000
-
    ```
 
 ## Production Deployment
