@@ -1,7 +1,3 @@
-Sure, here's an enhanced version of the README with some additional information and formatting improvements:
-
-```markdown
-
 # Image Generation App
 
 ## Overview
