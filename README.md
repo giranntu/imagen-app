@@ -68,7 +68,8 @@ This is an image generation application that allows users to generate unique ima
 
    cd ../backend
 
-   ```
+  ```
+
 
 2\. Create a virtual environment:
 
@@ -78,13 +79,15 @@ This is an image generation application that allows users to generate unique ima
 
    ```
 
+
 3\. Activate the virtual environment:
 
   ```sh
 
    source venv/bin/activate
 
-   ```
+```
+
 
 4\. Install the backend dependencies:
 
@@ -94,6 +97,7 @@ This is an image generation application that allows users to generate unique ima
 
    ```
 
+
 5\. Create a `.env` file in the `backend` directory and provide the necessary environment variables (e.g., MongoDB connection URL, Google Cloud Storage bucket name).
 
 6\. Run the backend server:
@@ -102,7 +106,8 @@ This is an image generation application that allows users to generate unique ima
 
    uvicorn main:app --host 0.0.0.0 --port 8000
 
-   ```
+```
+
 
 ## Production Deployment
 
