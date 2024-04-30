@@ -1,0 +1,22 @@
+[
+    { "label": "Google總部", "value": "googleHQ" },
+    { "label": "月球基地", "value": "moonBase" },
+    { "label": "火箭發射台", "value": "rocketLaunchPad" },
+    { "label": "虛擬實境遊戲", "value": "vrGame" },
+    { "label": "區塊鏈城市", "value": "blockchainCity" },
+    { "label": "無人駕駛車城", "value": "selfDrivingCarCity" },
+    { "label": "AR擴增實境公園", "value": "arPark" },
+    { "label": "未來城市", "value": "futureCity" },
+    { "label": "海底世界", "value": "underwaterWorld" },
+    { "label": "網路虛擬空間", "value": "cyberspace" },
+    { "label": "太空艙", "value": "spaceship" },
+    { "label": "穀歌資料中心", "value": "googleDataCenter" },
+    { "label": "無人機競技場", "value": "droneArena" },
+    { "label": "智慧工廠", "value": "smartFactory" },
+    { "label": "科技博物館", "value": "techMuseum" },
+    { "label": "未來主題樂園", "value": "futurePark" },
+    { "label": "奇幻世界", "value": "fantasyWorld" },
+    { "label": "海灘度假村", "value": "beachResort" },
+    { "label": "叢林探險", "value": "jungleAdventure" },
+    { "label": "城市夜景", "value": "cityNightView" }
+  ]

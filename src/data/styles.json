@@ -1,0 +1,17 @@
+[
+    { "label": "賽博朋克", "value": "cyberpunk" },
+    { "label": "復古像素風", "value": "retropixel" },
+    { "label": "霓虹未來風", "value": "neonfuture" },
+    { "label": "蒸汽龐克", "value": "steampunk" },
+    { "label": "水彩畫風", "value": "watercolor" },
+    { "label": "版畫風", "value": "ukiyoe" },
+    { "label": "low poly低面建模", "value": "lowpoly" },
+    { "label": "vaporwave 蒸汽波", "value": "vaporwave" },
+    { "label": "Synthwave合成器", "value": "synthwave" },
+    { "label": "赛博朋克 Cyberpunk", "value": "cyberpunk" },
+    { "label": "未來主義", "value": "futurism" },
+    { "label": "超現實主義", "value": "surrealism" },
+    { "label": "普普風", "value": "popart" },
+    { "label": "孟菲斯風格", "value": "memphis" },
+    { "label": "包豪斯風格", "value": "bauhaus" }
+  ]

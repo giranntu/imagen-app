@@ -1,0 +1,17 @@
+// vue.config.js
+module.exports = {
+  outputDir: 'dist',
+  publicPath: process.env.NODE_ENV === 'production' ? '/imagen-app/' : '/',
+  transpileDependencies: ['vuetify'],
+};
+
+// module.exports = {
+//     devServer: {
+//       proxy: {
+//         '/api': {
+//           target: 'http://localhost:8000',
+//           changeOrigin: true,
+//         },
+//       },
+//     },
+//   };
