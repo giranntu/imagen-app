@@ -20,7 +20,7 @@ This is an image generation application that allows users to generate unique ima
 
 1\. Clone the repository:
 
-   ```sh
+  ```sh
 
    git clone https://github.com/giranntu/image-generation-app.git
 
@@ -28,37 +28,37 @@ This is an image generation application that allows users to generate unique ima
 
 2\. Navigate to the frontend directory:
 
-   ```sh
+  ```sh
 
    cd image-generation-app/frontend
 
-   ```
+  ```
 
 3\. Install the frontend dependencies:
 
-   ```sh
+  ```sh
 
    npm install
 
-   ```
+  ```
 
 4\. Create a `.env` file in the `frontend` directory and provide the necessary environment variables (e.g., backend API URL).
 
 5\. Build the frontend:
 
-   ```sh
+  ```sh
 
    npm run build
 
-   ```
+  ```
 
 6\. Serve the frontend:
 
-   ```sh
+  ```sh
 
    npm run serve
 
-   ```
+  ```
 
 
 
