@@ -114,17 +114,11 @@ This is an image generation application that allows users to generate unique ima
 
 4\. Configure a process manager (e.g., PM2) to run the backend server as a background process.
 
-5\. Set up a web server (e.g., Nginx) to serve the frontend files and proxy requests to the backend server.
-
-6\. Configure SSL/TLS certificates for secure HTTPS communication.
-
-7\. Start the process manager and web server.
+5\. Start the process manager and web server.
 
 ## Configuration
 
 - **Frontend configuration**: Update the `.env` file in the `frontend` directory to specify the backend API URL and any other necessary environment variables.
-
-- **Backend configuration**: Update the `.env` file in the `backend` directory to specify the MongoDB connection URL, Google Cloud Storage bucket name, and any other necessary environment variables.
 
 ## Dependencies
 
@@ -188,40 +182,6 @@ npm run lint
 
 ```
 
-## Contributing
-
-If you'd like to contribute to this project, please follow the standard GitHub workflow:
-
-1\. Fork the repository
-
-2\. Create a new branch for your feature or bug fix
-
-3\. Make your changes and commit them
-
-4\. Push your changes to your forked repository
-
-5\. Open a pull request against the main repository
-
-Please ensure that your code adheres to the project's coding standards and that all tests pass before submitting a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
-In this enhanced version, I've added the following improvements:
-
-- An "Overview" section to provide a high-level description of the application.
-
-- A "Contributing" section with instructions for contributing to the project.
-
-- A "License" section indicating the project's license.
-
-- Formatting improvements, such as code blocks for commands and improved header hierarchy.
-
-- Grouped the frontend and backend dependencies under their respective sections.
-
-- Expanded the "Project Scripts" section to include all relevant npm scripts.
-
-Feel free to modify or add any additional information as needed.
